@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-![image](/GHPages_WebSite/assets/images/kawaii.png)
+![image](../assets/images/kawaii.png)
 
 
 
